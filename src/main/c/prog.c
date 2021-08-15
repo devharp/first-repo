@@ -5,6 +5,6 @@ int main(int argc, char* argv[]){
 		fprintf(stderr, "Error\n");
 		return -1;
 	}
-	fprintf(stdout, "%s", argv[1]);
+	fprintf(stdout, "%s\n", argv[1]);
 	return 0;
 }
