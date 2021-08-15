@@ -10,7 +10,7 @@ make prog
 
 ### Usage
 
-just run the following after compiling
+just run the following as it is after compiling
 ```bash
 bin/prog "Hello World!"
 ```
