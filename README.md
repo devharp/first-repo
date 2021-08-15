@@ -12,5 +12,5 @@ make prog
 
 just run the following after compiling
 ```bash
-$ bin/prog "Hello World!"
+bin/prog "Hello World!"
 ```
